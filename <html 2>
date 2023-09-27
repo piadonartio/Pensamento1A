@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -9,9 +9,31 @@
     <script src='main.js'></script>
 </head>
 <body><h1>como é feita a agricultura intensiva?<h1>
-    É um sistema agrícola caracterizado pelo uso de técnicas rudimentares ou tradicionais na produção. Esse tipo de agricultura pode ser encontrado tanto nas
-     pequenas quanto nas grandes propriedades com o predomínio da mão de obra humana e baixa mecanização.
+    
+    é o nome dado a um modo de produção agrícola que busca a obtenção de elevados índices de produtividade no menor tempo possível. 
+    Em oposição à agricultura extensiva, o modelo intensivo requer investimentos em insumos e tecnologias que viabilizam a alta performance 
+    do plantio sem a necessidade de expansão espacial do empreendimento.
+     É recorrente a utilização excessiva ou inadequada de máquinas pesadas, fertilizantes e produtos fitossanitários
      
-     <h2>quais a diferença para a extensiva</h2>
+    <h2>Revolução Verde</h2>
+    É feita a seleção de sementes e espécies que são imunes ou mais resistentes a pragas e adequadas ao tipo de solo e clima e que apresentam maior produtividade;
+
+<h3>em outros países</h3>
+É comum em países desenvolvidos e, nos países subdesenvolvidos, a produção geralmente é destinada à exportação para países ricos. 
+Quando a produção é para consumo dentro do país subdesenvolvido, geralmente é destinada à indústria (alimentícia, energia, têxtil e outras);
+
+<img src="varios paises .jpg" alt="">
+
+<h4>Aplicação de técnicas e tecnologias</h4>como biotecnologia (modificação genética de sementes e plantas), irrigação, terraceamento, drenagem dos solos etc.;
+
+<h5>setor industrial</h5>
+
+É uma modalidade agregada ao setor industrial, tanto como consumidor – maquinário agrícola, defensivos químicos e fertilizantes – 
+quanto como fornecedor de matéria-prima, pois seus produtos são vendidos para as indústrias beneficiadoras de alimentos, indústrias de biocombustíveis, têxtil,
+ de cigarros, de móveis e outras.
+
+<img src="testes em laboratorios.jpg" alt="">
+
+<h6></h6>
 </body>
 </html>
