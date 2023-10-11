@@ -10,7 +10,8 @@
 </head>
 <body><h1>como é feita a agricultura intensiva?<h1>
     
-    é o nome dado a um modo de produção agrícola que busca a obtenção de elevados índices de produtividade no menor tempo possível. 
+    é o nome dado a um<link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="produtos.css"> modo de produção agrícola que busca a obtenção de elevados índices de produtividade no menor tempo possível. 
     Em oposição à agricultura extensiva, o modelo intensivo requer investimentos em insumos e tecnologias que viabilizam a alta performance 
     do plantio sem a necessidade de expansão espacial do empreendimento.
      É recorrente a utilização excessiva ou inadequada de máquinas pesadas, fertilizantes e produtos fitossanitários
@@ -37,3 +38,36 @@ quanto como fornecedor de matéria-prima, pois seus produtos são vendidos para 
 <h6></h6>
 </body>
 </html>
+
+<main>implementos agrícolas<main>
+    <h7>grade niveladora<h7>
+    A grade niveladora faz com que quebre os torrões deixados pela aração, nivela a superfície e melhora as condições de plantio das sementes, potencializando a sua 
+    germinação. Elas também podem ser utilizadas antes da aração, quebrando a crosta da superfície do solo ou cortando a vegetação 
+    
+    <img>
+    
+    <h8>grade aradora<h8>
+    A função da grade aradora é realizar o início das operações de preparo do solo. Desestrutura o solo compactado, destrói a soqueira ou pasto e possíveis 
+    plantas daninhas. Se o calcário for aplicado antes, parte dele já será incorporado superficialmente.
+    <img src=
+    
+    <h9>subsolador<h9>
+    São equipamentos que trabalham a superfície e a sub-superficie do solo para promover desagregação de camadas compactadas, a fim de facilitar a penetração de raízes 
+    das culturas, da água e do ar, para as camadas mais profundas do solo, sem incorporar a matéria orgânica.
+    <img src="subsolador.jpg"
+    
+    <h10>rolo faca<h10>
+    A função específica do rolo faca é de derrubar, amassar ou picar a vegetação, restos culturas ou plantas de cobertura, facilitando o próximo plantio e formando uma 
+    camada verde sobre o solo que pode se manter durante todo o ciclo das culturas, interferindo o mínimo possível no solo.
+    <img src="rolo-faca-plantio-direto-2.jpg"
+    
+    <h11>semeadeira<h11>
+    A semeadora é a máquina que realiza a semeadura das culturas, ou seja, introduz sementes de plantas no solo. A plantadeira de milho é a máquina que realiza o plantio
+     das culturas e coloca no solo as partes vegetativas de plantas, como bulbos, colmos e tubérculos.
+     <img src="plantadeira"
+        
+    
+    
+     <h12>plantadeira<h12>
+     Liberação controlada das sementes; Deixar o solo ao redor das sementes mais denso; Distribuição correta da semente no terreno; Cobertura das sementes.
+     
