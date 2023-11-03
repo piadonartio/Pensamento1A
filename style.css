@@ -1,0 +1,73 @@
+body{
+   background: #CCCCCC
+}
+
+
+#jd{
+ height:11s00px ; 
+ width: 100%;    
+}
+
+.principal{
+ background: #CCCCCC;
+ padding: 30px;
+
+
+}
+
+.tiulo-principal{
+padding-left: 20px; 
+
+}
+
+{width:100%;
+heigth:120px;
+
+}
+
+   .titulo-centralizado{
+      text-align:center
+
+}
+
+
+  {
+      text-align:center
+}
+#missao{
+
+      style="font-size: 20px
+}
+
+
+em strong{
+color: blue;
+}
+
+.itens{
+
+font-style:italic      
+
+}
+
+
+.benefícios{
+background:#FFFFFF;
+padding: 20px;
+}
+
+
+
+
+ul{
+display: inline-block;
+vertical-align:top;
+width:20%;
+margin-right: 15%;
+}
+.case{
+  
+  width: 50%;
+  
+  }
+
